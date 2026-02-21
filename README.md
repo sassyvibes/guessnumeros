@@ -18,4 +18,4 @@ The computer randomly selects a number between 1 and 100, and the player must gu
 Make sure you have Python installed.
 
 ```bash
-python guess_game.py
+python main.py
