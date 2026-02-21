@@ -8,8 +8,8 @@ The computer randomly selects a number between 1 and 100, and the player must gu
 
 ## 📂 Files
 
-- `guess_game.py` → Python version
-- `guess_game.cpp` → C++ version
+- `main.py` → Python version
+- `ceeplasplasver.cpp` → C++ version
 
 ---
 
